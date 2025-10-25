@@ -31,9 +31,9 @@ I design and manage **lighting, sound, video, and stage production** for venues 
 
 ## 📊 GitHub Stats
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgray-online&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgray-online&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgray-online&theme=radical)  
 
 ---
 
